@@ -1,0 +1,898 @@
+[
+  {
+    "character": "ami",
+    "row": 1,
+    "column": 1,
+    "source_bbox": [
+      14,
+      10,
+      180,
+      168
+    ],
+    "opaque_pixels": 16921,
+    "source_size": [
+      166,
+      158
+    ]
+  },
+  {
+    "character": "babycoco",
+    "row": 1,
+    "column": 2,
+    "source_bbox": [
+      191,
+      15,
+      351,
+      168
+    ],
+    "opaque_pixels": 15321,
+    "source_size": [
+      160,
+      153
+    ]
+  },
+  {
+    "character": "babycortex",
+    "row": 1,
+    "column": 3,
+    "source_bbox": [
+      349,
+      1,
+      507,
+      168
+    ],
+    "opaque_pixels": 13258,
+    "source_size": [
+      158,
+      167
+    ]
+  },
+  {
+    "character": "babycrash",
+    "row": 1,
+    "column": 4,
+    "source_bbox": [
+      505,
+      13,
+      665,
+      169
+    ],
+    "opaque_pixels": 12632,
+    "source_size": [
+      160,
+      156
+    ]
+  },
+  {
+    "character": "babyntropy",
+    "row": 1,
+    "column": 5,
+    "source_bbox": [
+      668,
+      3,
+      816,
+      168
+    ],
+    "opaque_pixels": 14131,
+    "source_size": [
+      148,
+      165
+    ]
+  },
+  {
+    "character": "babyt",
+    "row": 1,
+    "column": 6,
+    "source_bbox": [
+      837,
+      13,
+      993,
+      168
+    ],
+    "opaque_pixels": 14348,
+    "source_size": [
+      156,
+      155
+    ]
+  },
+  {
+    "character": "bignorm",
+    "row": 1,
+    "column": 7,
+    "source_bbox": [
+      1014,
+      6,
+      1164,
+      167
+    ],
+    "opaque_pixels": 15446,
+    "source_size": [
+      150,
+      161
+    ]
+  },
+  {
+    "character": "chick",
+    "row": 1,
+    "column": 8,
+    "source_bbox": [
+      1178,
+      2,
+      1310,
+      168
+    ],
+    "opaque_pixels": 12163,
+    "source_size": [
+      132,
+      166
+    ]
+  },
+  {
+    "character": "coco",
+    "row": 2,
+    "column": 1,
+    "source_bbox": [
+      14,
+      165,
+      191,
+      336
+    ],
+    "opaque_pixels": 18773,
+    "source_size": [
+      177,
+      171
+    ]
+  },
+  {
+    "character": "cortex",
+    "row": 2,
+    "column": 2,
+    "source_bbox": [
+      180,
+      162,
+      351,
+      338
+    ],
+    "opaque_pixels": 15597,
+    "source_size": [
+      171,
+      176
+    ]
+  },
+  {
+    "character": "crash",
+    "row": 2,
+    "column": 3,
+    "source_bbox": [
+      342,
+      170,
+      514,
+      333
+    ],
+    "opaque_pixels": 15941,
+    "source_size": [
+      172,
+      163
+    ]
+  },
+  {
+    "character": "crate",
+    "row": 2,
+    "column": 4,
+    "source_bbox": [
+      513,
+      172,
+      669,
+      324
+    ],
+    "opaque_pixels": 17185,
+    "source_size": [
+      156,
+      152
+    ]
+  },
+  {
+    "character": "crunch",
+    "row": 2,
+    "column": 5,
+    "source_bbox": [
+      668,
+      164,
+      835,
+      336
+    ],
+    "opaque_pixels": 18132,
+    "source_size": [
+      167,
+      172
+    ]
+  },
+  {
+    "character": "dingodile",
+    "row": 2,
+    "column": 6,
+    "source_bbox": [
+      831,
+      168,
+      1010,
+      333
+    ],
+    "opaque_pixels": 16316,
+    "source_size": [
+      179,
+      165
+    ]
+  },
+  {
+    "character": "fakecrash",
+    "row": 2,
+    "column": 7,
+    "source_bbox": [
+      1000,
+      165,
+      1172,
+      340
+    ],
+    "opaque_pixels": 15925,
+    "source_size": [
+      172,
+      175
+    ]
+  },
+  {
+    "character": "fixedrillaroo",
+    "row": 2,
+    "column": 8,
+    "source_bbox": [
+      1169,
+      162,
+      1324,
+      336
+    ],
+    "opaque_pixels": 15429,
+    "source_size": [
+      155,
+      174
+    ]
+  },
+  {
+    "character": "geary",
+    "row": 3,
+    "column": 1,
+    "source_bbox": [
+      20,
+      331,
+      172,
+      504
+    ],
+    "opaque_pixels": 13490,
+    "source_size": [
+      152,
+      173
+    ]
+  },
+  {
+    "character": "gnastygnorc",
+    "row": 3,
+    "column": 2,
+    "source_bbox": [
+      171,
+      332,
+      352,
+      506
+    ],
+    "opaque_pixels": 18871,
+    "source_size": [
+      181,
+      174
+    ]
+  },
+  {
+    "character": "hasty",
+    "row": 3,
+    "column": 3,
+    "source_bbox": [
+      333,
+      335,
+      516,
+      508
+    ],
+    "opaque_pixels": 17808,
+    "source_size": [
+      183,
+      173
+    ]
+  },
+  {
+    "character": "hunter",
+    "row": 3,
+    "column": 4,
+    "source_bbox": [
+      514,
+      335,
+      665,
+      506
+    ],
+    "opaque_pixels": 15910,
+    "source_size": [
+      151,
+      171
+    ]
+  },
+  {
+    "character": "isabella",
+    "row": 3,
+    "column": 5,
+    "source_bbox": [
+      663,
+      332,
+      831,
+      508
+    ],
+    "opaque_pixels": 18778,
+    "source_size": [
+      168,
+      176
+    ]
+  },
+  {
+    "character": "kingchicken",
+    "row": 3,
+    "column": 6,
+    "source_bbox": [
+      834,
+      329,
+      983,
+      505
+    ],
+    "opaque_pixels": 12718,
+    "source_size": [
+      149,
+      176
+    ]
+  },
+  {
+    "character": "koalakong",
+    "row": 3,
+    "column": 7,
+    "source_bbox": [
+      978,
+      337,
+      1170,
+      505
+    ],
+    "opaque_pixels": 20790,
+    "source_size": [
+      192,
+      168
+    ]
+  },
+  {
+    "character": "komodojoe",
+    "row": 3,
+    "column": 8,
+    "source_bbox": [
+      1162,
+      331,
+      1326,
+      504
+    ],
+    "opaque_pixels": 14580,
+    "source_size": [
+      164,
+      173
+    ]
+  },
+  {
+    "character": "komodomoe",
+    "row": 4,
+    "column": 1,
+    "source_bbox": [
+      11,
+      499,
+      179,
+      673
+    ],
+    "opaque_pixels": 16024,
+    "source_size": [
+      168,
+      174
+    ]
+  },
+  {
+    "character": "krunk",
+    "row": 4,
+    "column": 2,
+    "source_bbox": [
+      173,
+      501,
+      355,
+      675
+    ],
+    "opaque_pixels": 19940,
+    "source_size": [
+      182,
+      174
+    ]
+  },
+  {
+    "character": "labassistant",
+    "row": 4,
+    "column": 3,
+    "source_bbox": [
+      362,
+      502,
+      492,
+      670
+    ],
+    "opaque_pixels": 11300,
+    "source_size": [
+      130,
+      168
+    ]
+  },
+  {
+    "character": "liz",
+    "row": 4,
+    "column": 4,
+    "source_bbox": [
+      514,
+      506,
+      668,
+      677
+    ],
+    "opaque_pixels": 16926,
+    "source_size": [
+      154,
+      171
+    ]
+  },
+  {
+    "character": "megamix",
+    "row": 4,
+    "column": 5,
+    "source_bbox": [
+      661,
+      501,
+      840,
+      676
+    ],
+    "opaque_pixels": 21042,
+    "source_size": [
+      179,
+      175
+    ]
+  },
+  {
+    "character": "megumi",
+    "row": 4,
+    "column": 6,
+    "source_bbox": [
+      834,
+      502,
+      998,
+      675
+    ],
+    "opaque_pixels": 17698,
+    "source_size": [
+      164,
+      173
+    ]
+  },
+  {
+    "character": "nash",
+    "row": 4,
+    "column": 7,
+    "source_bbox": [
+      994,
+      502,
+      1180,
+      676
+    ],
+    "opaque_pixels": 18228,
+    "source_size": [
+      186,
+      174
+    ]
+  },
+  {
+    "character": "nbrio",
+    "row": 4,
+    "column": 8,
+    "source_bbox": [
+      1178,
+      502,
+      1324,
+      681
+    ],
+    "opaque_pixels": 13976,
+    "source_size": [
+      146,
+      179
+    ]
+  },
+  {
+    "character": "ngin",
+    "row": 5,
+    "column": 1,
+    "source_bbox": [
+      11,
+      671,
+      179,
+      846
+    ],
+    "opaque_pixels": 17174,
+    "source_size": [
+      168,
+      175
+    ]
+  },
+  {
+    "character": "nina",
+    "row": 5,
+    "column": 2,
+    "source_bbox": [
+      171,
+      675,
+      350,
+      846
+    ],
+    "opaque_pixels": 17669,
+    "source_size": [
+      179,
+      171
+    ]
+  },
+  {
+    "character": "nitrusoxide",
+    "row": 5,
+    "column": 3,
+    "source_bbox": [
+      342,
+      668,
+      515,
+      846
+    ],
+    "opaque_pixels": 19182,
+    "source_size": [
+      173,
+      178
+    ]
+  },
+  {
+    "character": "ntrance",
+    "row": 5,
+    "column": 4,
+    "source_bbox": [
+      506,
+      673,
+      665,
+      846
+    ],
+    "opaque_pixels": 16253,
+    "source_size": [
+      159,
+      173
+    ]
+  },
+  {
+    "character": "ntrophy",
+    "row": 5,
+    "column": 5,
+    "source_bbox": [
+      680,
+      672,
+      811,
+      850
+    ],
+    "opaque_pixels": 15355,
+    "source_size": [
+      131,
+      178
+    ]
+  },
+  {
+    "character": "papupapu",
+    "row": 5,
+    "column": 6,
+    "source_bbox": [
+      833,
+      672,
+      1004,
+      852
+    ],
+    "opaque_pixels": 20044,
+    "source_size": [
+      171,
+      180
+    ]
+  },
+  {
+    "character": "pasadena",
+    "row": 5,
+    "column": 7,
+    "source_bbox": [
+      1014,
+      672,
+      1177,
+      847
+    ],
+    "opaque_pixels": 17285,
+    "source_size": [
+      163,
+      175
+    ]
+  },
+  {
+    "character": "pentapenguin",
+    "row": 5,
+    "column": 8,
+    "source_bbox": [
+      1177,
+      680,
+      1324,
+      841
+    ],
+    "opaque_pixels": 13890,
+    "source_size": [
+      147,
+      161
+    ]
+  },
+  {
+    "character": "pinstripe",
+    "row": 6,
+    "column": 1,
+    "source_bbox": [
+      9,
+      849,
+      180,
+      1001
+    ],
+    "opaque_pixels": 15049,
+    "source_size": [
+      171,
+      152
+    ]
+  },
+  {
+    "character": "polar",
+    "row": 6,
+    "column": 2,
+    "source_bbox": [
+      192,
+      850,
+      342,
+      997
+    ],
+    "opaque_pixels": 14055,
+    "source_size": [
+      150,
+      147
+    ]
+  },
+  {
+    "character": "pura",
+    "row": 6,
+    "column": 3,
+    "source_bbox": [
+      340,
+      843,
+      505,
+      1003
+    ],
+    "opaque_pixels": 16653,
+    "source_size": [
+      165,
+      160
+    ]
+  },
+  {
+    "character": "realvelo",
+    "row": 6,
+    "column": 4,
+    "source_bbox": [
+      514,
+      842,
+      656,
+      1000
+    ],
+    "opaque_pixels": 13508,
+    "source_size": [
+      142,
+      158
+    ]
+  },
+  {
+    "character": "rillaroo",
+    "row": 6,
+    "column": 5,
+    "source_bbox": [
+      663,
+      843,
+      837,
+      999
+    ],
+    "opaque_pixels": 14731,
+    "source_size": [
+      174,
+      156
+    ]
+  },
+  {
+    "character": "ripperroo",
+    "row": 6,
+    "column": 6,
+    "source_bbox": [
+      830,
+      842,
+      1010,
+      1008
+    ],
+    "opaque_pixels": 15860,
+    "source_size": [
+      180,
+      166
+    ]
+  },
+  {
+    "character": "smallnorm",
+    "row": 6,
+    "column": 7,
+    "source_bbox": [
+      1025,
+      843,
+      1142,
+      1002
+    ],
+    "opaque_pixels": 10386,
+    "source_size": [
+      117,
+      159
+    ]
+  },
+  {
+    "character": "spyro",
+    "row": 6,
+    "column": 8,
+    "source_bbox": [
+      1147,
+      838,
+      1328,
+      1001
+    ],
+    "opaque_pixels": 16108,
+    "source_size": [
+      181,
+      163
+    ]
+  },
+  {
+    "character": "stew",
+    "row": 7,
+    "column": 1,
+    "source_bbox": [
+      13,
+      997,
+      159,
+      1162
+    ],
+    "opaque_pixels": 14245,
+    "source_size": [
+      146,
+      165
+    ]
+  },
+  {
+    "character": "tawna",
+    "row": 7,
+    "column": 2,
+    "source_bbox": [
+      168,
+      999,
+      342,
+      1162
+    ],
+    "opaque_pixels": 20063,
+    "source_size": [
+      174,
+      163
+    ]
+  },
+  {
+    "character": "tinytiger",
+    "row": 7,
+    "column": 3,
+    "source_bbox": [
+      334,
+      996,
+      514,
+      1165
+    ],
+    "opaque_pixels": 20235,
+    "source_size": [
+      180,
+      169
+    ]
+  },
+  {
+    "character": "velo",
+    "row": 7,
+    "column": 4,
+    "source_bbox": [
+      505,
+      997,
+      671,
+      1161
+    ],
+    "opaque_pixels": 19093,
+    "source_size": [
+      166,
+      164
+    ]
+  },
+  {
+    "character": "vonclutch",
+    "row": 7,
+    "column": 5,
+    "source_bbox": [
+      663,
+      997,
+      825,
+      1161
+    ],
+    "opaque_pixels": 17336,
+    "source_size": [
+      162,
+      164
+    ]
+  },
+  {
+    "character": "yaya",
+    "row": 7,
+    "column": 6,
+    "source_bbox": [
+      845,
+      1004,
+      995,
+      1161
+    ],
+    "opaque_pixels": 15810,
+    "source_size": [
+      150,
+      157
+    ]
+  },
+  {
+    "character": "zam",
+    "row": 7,
+    "column": 7,
+    "source_bbox": [
+      1008,
+      1000,
+      1153,
+      1162
+    ],
+    "opaque_pixels": 14962,
+    "source_size": [
+      145,
+      162
+    ]
+  },
+  {
+    "character": "zem",
+    "row": 7,
+    "column": 8,
+    "source_bbox": [
+      1161,
+      1000,
+      1326,
+      1160
+    ],
+    "opaque_pixels": 17742,
+    "source_size": [
+      165,
+      160
+    ]
+  }
+]

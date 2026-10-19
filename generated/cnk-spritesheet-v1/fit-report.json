@@ -1,0 +1,1010 @@
+[
+  {
+    "character": "ami",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 8,
+    "min_margin": 1363,
+    "max_encoded": 4781,
+    "min_slot": 6144
+  },
+  {
+    "character": "ami",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 8,
+    "min_margin": 341,
+    "max_encoded": 1707,
+    "min_slot": 2048
+  },
+  {
+    "character": "babycoco",
+    "size": 128,
+    "palette_colors": 128,
+    "copies": 5,
+    "min_margin": 70,
+    "max_encoded": 4028,
+    "min_slot": 4096
+  },
+  {
+    "character": "babycoco",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 405,
+    "max_encoded": 1643,
+    "min_slot": 2048
+  },
+  {
+    "character": "babycortex",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 316,
+    "max_encoded": 3780,
+    "min_slot": 4096
+  },
+  {
+    "character": "babycortex",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 614,
+    "max_encoded": 1434,
+    "min_slot": 2048
+  },
+  {
+    "character": "babycrash",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 157,
+    "max_encoded": 3939,
+    "min_slot": 4096
+  },
+  {
+    "character": "babycrash",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 564,
+    "max_encoded": 1484,
+    "min_slot": 2048
+  },
+  {
+    "character": "babyntropy",
+    "size": 128,
+    "palette_colors": 256,
+    "copies": 4,
+    "min_margin": 118,
+    "max_encoded": 3978,
+    "min_slot": 4096
+  },
+  {
+    "character": "babyntropy",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 528,
+    "max_encoded": 1520,
+    "min_slot": 2048
+  },
+  {
+    "character": "babyt",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 1605,
+    "max_encoded": 4539,
+    "min_slot": 6144
+  },
+  {
+    "character": "babyt",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 415,
+    "max_encoded": 1633,
+    "min_slot": 2048
+  },
+  {
+    "character": "bignorm",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 1539,
+    "max_encoded": 4605,
+    "min_slot": 6144
+  },
+  {
+    "character": "bignorm",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 425,
+    "max_encoded": 1623,
+    "min_slot": 2048
+  },
+  {
+    "character": "chick",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 2451,
+    "max_encoded": 3693,
+    "min_slot": 6144
+  },
+  {
+    "character": "chick",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 657,
+    "max_encoded": 1391,
+    "min_slot": 2048
+  },
+  {
+    "character": "coco",
+    "size": 128,
+    "palette_colors": 96,
+    "copies": 14,
+    "min_margin": 50,
+    "max_encoded": 4051,
+    "min_slot": 4096
+  },
+  {
+    "character": "coco",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 15,
+    "min_margin": 415,
+    "max_encoded": 1633,
+    "min_slot": 2048
+  },
+  {
+    "character": "cortex",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 16,
+    "min_margin": 119,
+    "max_encoded": 3986,
+    "min_slot": 4096
+  },
+  {
+    "character": "cortex",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 17,
+    "min_margin": 543,
+    "max_encoded": 1505,
+    "min_slot": 2048
+  },
+  {
+    "character": "crash",
+    "size": 128,
+    "palette_colors": 128,
+    "copies": 31,
+    "min_margin": 66,
+    "max_encoded": 4034,
+    "min_slot": 4096
+  },
+  {
+    "character": "crash",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 27,
+    "min_margin": 450,
+    "max_encoded": 1598,
+    "min_slot": 2048
+  },
+  {
+    "character": "crate",
+    "size": 128,
+    "palette_colors": 64,
+    "copies": 5,
+    "min_margin": 92,
+    "max_encoded": 4004,
+    "min_slot": 4096
+  },
+  {
+    "character": "crate",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 246,
+    "max_encoded": 1802,
+    "min_slot": 2048
+  },
+  {
+    "character": "crunch",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 12,
+    "min_margin": 1284,
+    "max_encoded": 4860,
+    "min_slot": 6144
+  },
+  {
+    "character": "crunch",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 13,
+    "min_margin": 315,
+    "max_encoded": 1733,
+    "min_slot": 2048
+  },
+  {
+    "character": "dingodile",
+    "size": 128,
+    "palette_colors": 256,
+    "copies": 15,
+    "min_margin": 100,
+    "max_encoded": 4000,
+    "min_slot": 4096
+  },
+  {
+    "character": "dingodile",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 16,
+    "min_margin": 511,
+    "max_encoded": 1537,
+    "min_slot": 2048
+  },
+  {
+    "character": "fakecrash",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 11,
+    "min_margin": 2160,
+    "max_encoded": 3984,
+    "min_slot": 6144
+  },
+  {
+    "character": "fakecrash",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 12,
+    "min_margin": 534,
+    "max_encoded": 1514,
+    "min_slot": 2048
+  },
+  {
+    "character": "fixedrillaroo",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 1962,
+    "max_encoded": 4182,
+    "min_slot": 6144
+  },
+  {
+    "character": "fixedrillaroo",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 506,
+    "max_encoded": 1542,
+    "min_slot": 2048
+  },
+  {
+    "character": "geary",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 310,
+    "max_encoded": 3786,
+    "min_slot": 4096
+  },
+  {
+    "character": "geary",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 634,
+    "max_encoded": 1414,
+    "min_slot": 2048
+  },
+  {
+    "character": "gnastygnorc",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 1408,
+    "max_encoded": 4736,
+    "min_slot": 6144
+  },
+  {
+    "character": "gnastygnorc",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 352,
+    "max_encoded": 1696,
+    "min_slot": 2048
+  },
+  {
+    "character": "hasty",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 1657,
+    "max_encoded": 4487,
+    "min_slot": 6144
+  },
+  {
+    "character": "hasty",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 379,
+    "max_encoded": 1669,
+    "min_slot": 2048
+  },
+  {
+    "character": "hunter",
+    "size": 128,
+    "palette_colors": 256,
+    "copies": 4,
+    "min_margin": 37,
+    "max_encoded": 4059,
+    "min_slot": 4096
+  },
+  {
+    "character": "hunter",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 498,
+    "max_encoded": 1550,
+    "min_slot": 2048
+  },
+  {
+    "character": "isabella",
+    "size": 128,
+    "palette_colors": 128,
+    "copies": 8,
+    "min_margin": 93,
+    "max_encoded": 4003,
+    "min_slot": 4096
+  },
+  {
+    "character": "isabella",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 8,
+    "min_margin": 402,
+    "max_encoded": 1646,
+    "min_slot": 2048
+  },
+  {
+    "character": "kingchicken",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 757,
+    "max_encoded": 3339,
+    "min_slot": 4096
+  },
+  {
+    "character": "kingchicken",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 706,
+    "max_encoded": 1342,
+    "min_slot": 2048
+  },
+  {
+    "character": "koalakong",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 9,
+    "min_margin": 1792,
+    "max_encoded": 4352,
+    "min_slot": 6144
+  },
+  {
+    "character": "koalakong",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 9,
+    "min_margin": 442,
+    "max_encoded": 1606,
+    "min_slot": 2048
+  },
+  {
+    "character": "komodojoe",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 6,
+    "min_margin": 1983,
+    "max_encoded": 4161,
+    "min_slot": 6144
+  },
+  {
+    "character": "komodojoe",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 503,
+    "max_encoded": 1545,
+    "min_slot": 2048
+  },
+  {
+    "character": "komodomoe",
+    "size": 128,
+    "palette_colors": 256,
+    "copies": 4,
+    "min_margin": 65,
+    "max_encoded": 4031,
+    "min_slot": 4096
+  },
+  {
+    "character": "komodomoe",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 508,
+    "max_encoded": 1540,
+    "min_slot": 2048
+  },
+  {
+    "character": "krunk",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 1260,
+    "max_encoded": 4884,
+    "min_slot": 6144
+  },
+  {
+    "character": "krunk",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 310,
+    "max_encoded": 1738,
+    "min_slot": 2048
+  },
+  {
+    "character": "labassistant",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 744,
+    "max_encoded": 3352,
+    "min_slot": 4096
+  },
+  {
+    "character": "labassistant",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 752,
+    "max_encoded": 1296,
+    "min_slot": 2048
+  },
+  {
+    "character": "liz",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 1764,
+    "max_encoded": 4380,
+    "min_slot": 6144
+  },
+  {
+    "character": "liz",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 473,
+    "max_encoded": 1575,
+    "min_slot": 2048
+  },
+  {
+    "character": "megamix",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 6,
+    "min_margin": 940,
+    "max_encoded": 5204,
+    "min_slot": 6144
+  },
+  {
+    "character": "megamix",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 6,
+    "min_margin": 233,
+    "max_encoded": 1815,
+    "min_slot": 2048
+  },
+  {
+    "character": "megumi",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 1558,
+    "max_encoded": 4586,
+    "min_slot": 6144
+  },
+  {
+    "character": "megumi",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 394,
+    "max_encoded": 1654,
+    "min_slot": 2048
+  },
+  {
+    "character": "nash",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 6,
+    "min_margin": 1831,
+    "max_encoded": 4313,
+    "min_slot": 6144
+  },
+  {
+    "character": "nash",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 6,
+    "min_margin": 519,
+    "max_encoded": 1529,
+    "min_slot": 2048
+  },
+  {
+    "character": "nbrio",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 370,
+    "max_encoded": 3726,
+    "min_slot": 4096
+  },
+  {
+    "character": "nbrio",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 603,
+    "max_encoded": 1445,
+    "min_slot": 2048
+  },
+  {
+    "character": "ngin",
+    "size": 128,
+    "palette_colors": 96,
+    "copies": 10,
+    "min_margin": 44,
+    "max_encoded": 4053,
+    "min_slot": 4096
+  },
+  {
+    "character": "ngin",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 11,
+    "min_margin": 343,
+    "max_encoded": 1705,
+    "min_slot": 2048
+  },
+  {
+    "character": "nina",
+    "size": 128,
+    "palette_colors": 256,
+    "copies": 10,
+    "min_margin": 158,
+    "max_encoded": 3939,
+    "min_slot": 4096
+  },
+  {
+    "character": "nina",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 10,
+    "min_margin": 494,
+    "max_encoded": 1554,
+    "min_slot": 2048
+  },
+  {
+    "character": "nitrusoxide",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 8,
+    "min_margin": 1523,
+    "max_encoded": 4621,
+    "min_slot": 6144
+  },
+  {
+    "character": "nitrusoxide",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 9,
+    "min_margin": 392,
+    "max_encoded": 1656,
+    "min_slot": 2048
+  },
+  {
+    "character": "ntrance",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 8,
+    "min_margin": 1781,
+    "max_encoded": 4363,
+    "min_slot": 6144
+  },
+  {
+    "character": "ntrance",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 8,
+    "min_margin": 493,
+    "max_encoded": 1555,
+    "min_slot": 2048
+  },
+  {
+    "character": "ntrophy",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 6,
+    "min_margin": 112,
+    "max_encoded": 3984,
+    "min_slot": 4096
+  },
+  {
+    "character": "ntrophy",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 574,
+    "max_encoded": 1474,
+    "min_slot": 2048
+  },
+  {
+    "character": "papupapu",
+    "size": 128,
+    "palette_colors": 64,
+    "copies": 5,
+    "min_margin": 109,
+    "max_encoded": 3992,
+    "min_slot": 4096
+  },
+  {
+    "character": "papupapu",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 6,
+    "min_margin": 329,
+    "max_encoded": 1719,
+    "min_slot": 2048
+  },
+  {
+    "character": "pasadena",
+    "size": 128,
+    "palette_colors": 128,
+    "copies": 5,
+    "min_margin": 15,
+    "max_encoded": 4081,
+    "min_slot": 4096
+  },
+  {
+    "character": "pasadena",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 427,
+    "max_encoded": 1621,
+    "min_slot": 2048
+  },
+  {
+    "character": "pentapenguin",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 11,
+    "min_margin": 159,
+    "max_encoded": 3939,
+    "min_slot": 4096
+  },
+  {
+    "character": "pentapenguin",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 12,
+    "min_margin": 586,
+    "max_encoded": 1462,
+    "min_slot": 2048
+  },
+  {
+    "character": "pinstripe",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 9,
+    "min_margin": 79,
+    "max_encoded": 4017,
+    "min_slot": 4096
+  },
+  {
+    "character": "pinstripe",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 10,
+    "min_margin": 534,
+    "max_encoded": 1514,
+    "min_slot": 2048
+  },
+  {
+    "character": "polar",
+    "size": 128,
+    "palette_colors": 192,
+    "copies": 13,
+    "min_margin": 28,
+    "max_encoded": 4068,
+    "min_slot": 4096
+  },
+  {
+    "character": "polar",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 14,
+    "min_margin": 402,
+    "max_encoded": 1646,
+    "min_slot": 2048
+  },
+  {
+    "character": "pura",
+    "size": 128,
+    "palette_colors": 96,
+    "copies": 12,
+    "min_margin": 52,
+    "max_encoded": 4047,
+    "min_slot": 4096
+  },
+  {
+    "character": "pura",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 13,
+    "min_margin": 392,
+    "max_encoded": 1656,
+    "min_slot": 2048
+  },
+  {
+    "character": "realvelo",
+    "size": 128,
+    "palette_colors": 256,
+    "copies": 5,
+    "min_margin": 139,
+    "max_encoded": 3962,
+    "min_slot": 4096
+  },
+  {
+    "character": "realvelo",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 503,
+    "max_encoded": 1545,
+    "min_slot": 2048
+  },
+  {
+    "character": "rillaroo",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 2211,
+    "max_encoded": 3933,
+    "min_slot": 6144
+  },
+  {
+    "character": "rillaroo",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 621,
+    "max_encoded": 1427,
+    "min_slot": 2048
+  },
+  {
+    "character": "ripperroo",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 1958,
+    "max_encoded": 4186,
+    "min_slot": 6144
+  },
+  {
+    "character": "ripperroo",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 8,
+    "min_margin": 526,
+    "max_encoded": 1522,
+    "min_slot": 2048
+  },
+  {
+    "character": "smallnorm",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 2668,
+    "max_encoded": 3476,
+    "min_slot": 6144
+  },
+  {
+    "character": "smallnorm",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 681,
+    "max_encoded": 1367,
+    "min_slot": 2048
+  },
+  {
+    "character": "spyro",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 6,
+    "min_margin": 49,
+    "max_encoded": 4047,
+    "min_slot": 4096
+  },
+  {
+    "character": "spyro",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 6,
+    "min_margin": 541,
+    "max_encoded": 1507,
+    "min_slot": 2048
+  },
+  {
+    "character": "stew",
+    "size": 128,
+    "palette_colors": 256,
+    "copies": 5,
+    "min_margin": 149,
+    "max_encoded": 3947,
+    "min_slot": 4096
+  },
+  {
+    "character": "stew",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 518,
+    "max_encoded": 1530,
+    "min_slot": 2048
+  },
+  {
+    "character": "tawna",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 11,
+    "min_margin": 1222,
+    "max_encoded": 4922,
+    "min_slot": 6144
+  },
+  {
+    "character": "tawna",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 11,
+    "min_margin": 303,
+    "max_encoded": 1745,
+    "min_slot": 2048
+  },
+  {
+    "character": "tinytiger",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 14,
+    "min_margin": 1397,
+    "max_encoded": 4747,
+    "min_slot": 6144
+  },
+  {
+    "character": "tinytiger",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 15,
+    "min_margin": 363,
+    "max_encoded": 1685,
+    "min_slot": 2048
+  },
+  {
+    "character": "velo",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 986,
+    "max_encoded": 5158,
+    "min_slot": 6144
+  },
+  {
+    "character": "velo",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 5,
+    "min_margin": 233,
+    "max_encoded": 1815,
+    "min_slot": 2048
+  },
+  {
+    "character": "vonclutch",
+    "size": 128,
+    "palette_colors": 64,
+    "copies": 4,
+    "min_margin": 161,
+    "max_encoded": 3935,
+    "min_slot": 4096
+  },
+  {
+    "character": "vonclutch",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 290,
+    "max_encoded": 1758,
+    "min_slot": 2048
+  },
+  {
+    "character": "yaya",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 1645,
+    "max_encoded": 4499,
+    "min_slot": 6144
+  },
+  {
+    "character": "yaya",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 4,
+    "min_margin": 394,
+    "max_encoded": 1654,
+    "min_slot": 2048
+  },
+  {
+    "character": "zam",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 1587,
+    "max_encoded": 4557,
+    "min_slot": 6144
+  },
+  {
+    "character": "zam",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 8,
+    "min_margin": 417,
+    "max_encoded": 1631,
+    "min_slot": 2048
+  },
+  {
+    "character": "zem",
+    "size": 128,
+    "palette_colors": null,
+    "copies": 6,
+    "min_margin": 1299,
+    "max_encoded": 4845,
+    "min_slot": 6144
+  },
+  {
+    "character": "zem",
+    "size": 64,
+    "palette_colors": null,
+    "copies": 7,
+    "min_margin": 302,
+    "max_encoded": 1746,
+    "min_slot": 2048
+  }
+]

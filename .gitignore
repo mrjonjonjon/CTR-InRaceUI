@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+backup/
+state.json
+blobs/
+*.tmp
+.DS_Store

@@ -1,0 +1,230 @@
+{
+  "encoder": "pillow-dxt5",
+  "alpha_threshold": 128,
+  "palette_colors": {
+    "ami": {
+      "128": null,
+      "64": null
+    },
+    "babycoco": {
+      "128": 128,
+      "64": null
+    },
+    "babycortex": {
+      "128": null,
+      "64": null
+    },
+    "babycrash": {
+      "128": null,
+      "64": null
+    },
+    "babyntropy": {
+      "128": 256,
+      "64": null
+    },
+    "babyt": {
+      "128": null,
+      "64": null
+    },
+    "bignorm": {
+      "128": null,
+      "64": null
+    },
+    "chick": {
+      "128": null,
+      "64": null
+    },
+    "coco": {
+      "128": 96,
+      "64": null
+    },
+    "cortex": {
+      "128": null,
+      "64": null
+    },
+    "crash": {
+      "128": 128,
+      "64": null
+    },
+    "crate": {
+      "128": 64,
+      "64": null
+    },
+    "crunch": {
+      "128": null,
+      "64": null
+    },
+    "dingodile": {
+      "128": 256,
+      "64": null
+    },
+    "fakecrash": {
+      "128": null,
+      "64": null
+    },
+    "fixedrillaroo": {
+      "128": null,
+      "64": null
+    },
+    "geary": {
+      "128": null,
+      "64": null
+    },
+    "gnastygnorc": {
+      "128": null,
+      "64": null
+    },
+    "hasty": {
+      "128": null,
+      "64": null
+    },
+    "hunter": {
+      "128": 256,
+      "64": null
+    },
+    "isabella": {
+      "128": 128,
+      "64": null
+    },
+    "kingchicken": {
+      "128": null,
+      "64": null
+    },
+    "koalakong": {
+      "128": null,
+      "64": null
+    },
+    "komodojoe": {
+      "128": null,
+      "64": null
+    },
+    "komodomoe": {
+      "128": 256,
+      "64": null
+    },
+    "krunk": {
+      "128": null,
+      "64": null
+    },
+    "labassistant": {
+      "128": null,
+      "64": null
+    },
+    "liz": {
+      "128": null,
+      "64": null
+    },
+    "megamix": {
+      "128": null,
+      "64": null
+    },
+    "megumi": {
+      "128": null,
+      "64": null
+    },
+    "nash": {
+      "128": null,
+      "64": null
+    },
+    "nbrio": {
+      "128": null,
+      "64": null
+    },
+    "ngin": {
+      "128": 96,
+      "64": null
+    },
+    "nina": {
+      "128": 256,
+      "64": null
+    },
+    "nitrusoxide": {
+      "128": null,
+      "64": null
+    },
+    "ntrance": {
+      "128": null,
+      "64": null
+    },
+    "ntrophy": {
+      "128": null,
+      "64": null
+    },
+    "papupapu": {
+      "128": 64,
+      "64": null
+    },
+    "pasadena": {
+      "128": 128,
+      "64": null
+    },
+    "pentapenguin": {
+      "128": null,
+      "64": null
+    },
+    "pinstripe": {
+      "128": null,
+      "64": null
+    },
+    "polar": {
+      "128": 192,
+      "64": null
+    },
+    "pura": {
+      "128": 96,
+      "64": null
+    },
+    "realvelo": {
+      "128": 256,
+      "64": null
+    },
+    "rillaroo": {
+      "128": null,
+      "64": null
+    },
+    "ripperroo": {
+      "128": null,
+      "64": null
+    },
+    "smallnorm": {
+      "128": null,
+      "64": null
+    },
+    "spyro": {
+      "128": null,
+      "64": null
+    },
+    "stew": {
+      "128": 256,
+      "64": null
+    },
+    "tawna": {
+      "128": null,
+      "64": null
+    },
+    "tinytiger": {
+      "128": null,
+      "64": null
+    },
+    "velo": {
+      "128": null,
+      "64": null
+    },
+    "vonclutch": {
+      "128": 64,
+      "64": null
+    },
+    "yaya": {
+      "128": null,
+      "64": null
+    },
+    "zam": {
+      "128": null,
+      "64": null
+    },
+    "zem": {
+      "128": null,
+      "64": null
+    }
+  }
+}

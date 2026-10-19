@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=CTR HUD Mod ON
+Comment=Swap the racer HUD portraits for the placeholder art
+Exec=env CTR_HUD_PAUSE=1 /home/deck/ctr-hud-mod/ctr-hud.sh on
+Terminal=true
+Icon=applications-games

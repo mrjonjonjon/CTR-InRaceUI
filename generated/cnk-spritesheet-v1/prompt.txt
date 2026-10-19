@@ -1,0 +1,76 @@
+Use case: stylized-concept.
+Deliverable: ONE COMPLETE PRODUCTION SPRITE ATLAS for a Crash Team Racing Nitro-Fueled HUD portrait-swap mod. Exactly 56 distinct character portraits arranged in exactly EIGHT COLUMNS and SEVEN ROWS. All 56 characters below are mandatory. This is a single atlas image, not a collage with variable-size pictures.
+Input reference: the supplied Doctor Neo Cortex portrait is the user's APPROVED STYLE REFERENCE. Match its chunky retro pixelated rendering, bold angular highlights, stepped outlines and faceted early-2000s Crash Nitro Kart appearance. Reproduce that Cortex face in its assigned tile. Its facial anatomy and yellow skin must NOT leak into other characters. Every other subject must retain their own recognizable default character design from Crash Team Racing Nitro-Fueled, rendered in the same retro style.
+TECHNICAL LAYOUT:
+- Request canvas 2048 x 1792 pixels, landscape aspect ratio EXACTLY 8:7.
+- Eight equal columns and seven equal rows, 256 x 256 cells. Reading order is left-to-right then top-to-bottom.
+- One isolated head portrait centered in EACH cell, occupying about 80 percent of the cell. All ears, hair, hats and horns must fit inside that character's cell, with transparent inset on every side. Iron Checkpoint Crate uses the whole small crate as its icon.
+- Align the invisible cell boundaries perfectly. No overlap, spanning cells, empty cells, merged faces, extra characters or extra rows.
+- Genuine alpha transparency around every portrait and between tiles. No checkerboard, background panels, black rectangle, visible grid lines, headings, labels, filename text, watermark or border. The only text-like marks allowed are canonical character markings such as Cortex's N and the crate's C.
+- Each tile should have the visual detail of a 64x64 logical pixel sprite enlarged 4x: visible square pixel clusters, hard stepped edges, limited saturated color ramps and chunky pixel shading. Entire sheet must share one palette logic and lighting direction. Avoid smooth modern illustration, thin line art, soft glossy rendering, painted realistic fur or photorealism.
+- Only character HEADS and minimal necks. No shoulders, hands, full bodies, vehicles, weapons or held props. Include essential headwear, hair, ears, horns, crowns and mechanical facial features.
+MANDATORY ORDER, 8 PORTRAITS IN EACH ROW:
+ROW 1:
+1 Ami (the green-haired Nitro Squad female bandicoot, default design).
+2 Baby Coco (baby blonde Coco Bandicoot, distinct toddler face).
+3 Baby Cortex (baby Neo Cortex, yellow baby face and small N forehead).
+4 Baby Crash (baby orange Crash, small spiky tuft and toddler muzzle).
+5 Baby N. Tropy (baby blue-skinned N. Tropy with his miniature timekeeper headgear).
+6 Baby T (the small green baby Tyrannosaurus dinosaur, not a bandicoot).
+7 Big Norm (the large broad-faced white-blue alien mime/clown, default CNK design).
+8 Chick (the red-feathered chicken announcer with red comb, beak and original announcer headgear).
+ROW 2:
+1 Coco Bandicoot (orange female bandicoot, long blonde fringe/ponytail, pink flower, green eyes).
+2 Neo Cortex (exact chunky pixel style of supplied approved Cortex, giant yellow N forehead, black side hair, squinting eyes, long nose, small goatee).
+3 Crash Bandicoot (orange fur, red-orange spiky hair, green eyes, tan muzzle and mischievous toothy grin).
+4 Iron Checkpoint Crate (the playable gray metallic riveted checkpoint box with a bold C on its face; whole cube icon).
+5 Crunch Bandicoot (broad muscular red-brown bandicoot face, dark hair tuft and goatee, confident grin).
+6 Dingodile (green crocodile snout, dingo ears, reddish-brown hair tuft, menacing toothy grin).
+7 Fake Crash (orange Crash lookalike with huge bushy black unibrow, bulging eyes and exaggerated uneven buck teeth).
+8 Fixed Rilla Roo (the corrected Nitro-Fueled Rilla Roo design: purple gorilla-kangaroo with the longer original Bash-like face).
+ROW 3:
+1 Geary (blue-gray robot, mechanical square head with cog/metal details and gold-rimmed round eyes).
+2 Gnasty Gnorc (green muscular gnorc face, small horns, large lower fangs and orange hair).
+3 Hasty (brown moose racer, white hair quiff, long muzzle, large antlers, default design).
+4 Hunter (the tan spotted cheetah from Spyro, pointed feline face and friendly confident expression).
+5 Isabella (the Nitro Squad female bandicoot, recognizable default Nitro-Fueled face and hairstyle).
+6 King Chicken (white chicken with red comb, yellow beak and small golden royal crown).
+7 Koala Kong (gray koala with broad nose, huge rounded furry ears, square jaw and tough expression).
+8 Komodo Joe (green Komodo dragon with pointed snout, buck teeth and his original red/purple headgear).
+ROW 4:
+1 Komodo Moe (Joe's larger brother, wider green face, large teeth and his original blue/red headgear; clearly distinct from Joe).
+2 Krunk (the blue-green mandrill alien from CNK, long muzzle and original tribal headwear).
+3 Lab Assistant (the classic Crash human laboratory assistant enemy, recognizable default Nitro-Fueled head).
+4 Liz (the blonde Nitro Squad female bandicoot, recognizable default hairstyle/headwear).
+5 Megamix (the grotesque fused Crash/Cortex/Tiny/Dingodile mutant, patchwork asymmetrical monster face).
+6 Megumi (the dark-haired Nitro Squad female bandicoot with her characteristic fringe and hairstyle).
+7 Nash (the orange shark alien with mechanical goggles/headgear and sharp-toothed snout).
+8 N. Brio (pale scientist face, tall bald forehead with two metal bolts, thin black side hair, bushy eyebrows).
+ROW 5:
+1 N. Gin (pale crooked scientist face, ginger hair, red/metal patchwork facial side, rocket lodged in forehead).
+2 Nina Cortex (pale blue-gray goth teenage girl, dark blue-black bob and short side bunches, purple eyelids and mischievous grin).
+3 Nitros Oxide (green insect-like alien racer with enormous eyes, narrow muzzle and default headgear).
+4 N. Trance (pink egg-shaped cyclops robotic alien head with ONE central eye and small angry mouth).
+5 N. Tropy (blue-skinned scientist, angular black goatee, stern expression and tall gold clock/timekeeper helmet).
+6 Papu Papu (round brown-skinned island chief face, black hair topknot, wide nose and large grin).
+7 Pasadena O'Possum (female brown opossum with long pale muzzle, pointed pink ears, black nose and original default hairstyle).
+8 Penta Penguin (small black-and-white penguin, orange beak and cheerful expressive eyes).
+ROW 6:
+1 Pinstripe Potoroo (brown potoroo gangster with slick dark pompadour, long pointed muzzle, narrow eyes, toothy smirk).
+2 Polar (white polar bear cub with round ears, small black nose and friendly expression).
+3 Pura (orange tiger cub with black stripes, cream muzzle, small pink nose and green eyes).
+4 Real Velo (the small true green alien form from CNK, NOT the broad Emperor suit head).
+5 Rilla Roo (the initial Nitro-Fueled purple gorilla-kangaroo with its broader rounder gorilla face; distinct from Fixed Rilla Roo).
+6 Ripper Roo (blue crazed kangaroo with tall long ears, large manic eyes and wild toothy grin).
+7 Small Norm (the smaller thin-faced white-blue alien mime/clown, distinct from Big Norm).
+8 Spyro (purple dragon with yellow swept-back horns, purple frill, golden lower muzzle and confident smile).
+ROW 7:
+1 Stew (the blue-feathered chicken announcer with orange beak and default announcer headgear; distinct from red Chick).
+2 Tawna (orange female bandicoot, big sweeping blonde hair, blue eyes, strong lashes and confident smile).
+3 Tiny Tiger (orange Tasmanian tiger monster, massive blocky jaw, pointed ears, black stripes and huge teeth).
+4 Emperor Velo XXVII (the broad green emperor alien robotic suit head with royal purple headgear, NOT small Real Velo).
+5 Ebenezer Von Clutch (green German cyborg face with metal parts, goggles, original cap/headwear, weathered toothy expression).
+6 Yaya Panda (female black-and-white panda cub with dark eye patches and original red-flower/head accessory).
+7 Zam (green dog/lizard alien with wide amphibian muzzle, big eyes and goofy teeth).
+8 Zem (green stocky alien with very broad ugly face, tiny eyes and wide buck-toothed mouth, clearly distinct from Zam).
+Final check: exactly 8 evenly spaced head portraits per row, exactly 7 rows, all 56 unique subjects in the prescribed cells. Strict regular atlas geometry and alpha transparency.

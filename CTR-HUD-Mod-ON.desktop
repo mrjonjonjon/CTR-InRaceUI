@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=CTR HUD Mod ON
+Comment=Use generated Nitro Kart-style HUD and minimap portraits
+Exec=env CTR_HUD_PAUSE=1 /home/deck/ctr-hud-mod/ctr-hud.sh on
+Terminal=true
+Icon=applications-games

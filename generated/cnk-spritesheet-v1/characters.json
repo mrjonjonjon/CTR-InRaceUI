@@ -1,0 +1,690 @@
+{
+  "image": "portraits.png",
+  "width": 1340,
+  "height": 1174,
+  "columns": 8,
+  "rows": 7,
+  "hud_size": [
+    128,
+    128
+  ],
+  "minimap_size": [
+    64,
+    64
+  ],
+  "note": "Roster order and nominal cells. Actual complete silhouette bounds are in split-manifest.json; these were used to extract the installed portraits.",
+  "portraits": [
+    {
+      "character": "ami",
+      "filename": "ami.png",
+      "row": 1,
+      "column": 1,
+      "intended_cell_px": [
+        0,
+        0,
+        168,
+        168
+      ]
+    },
+    {
+      "character": "babycoco",
+      "filename": "babycoco.png",
+      "row": 1,
+      "column": 2,
+      "intended_cell_px": [
+        168,
+        0,
+        335,
+        168
+      ]
+    },
+    {
+      "character": "babycortex",
+      "filename": "babycortex.png",
+      "row": 1,
+      "column": 3,
+      "intended_cell_px": [
+        335,
+        0,
+        502,
+        168
+      ]
+    },
+    {
+      "character": "babycrash",
+      "filename": "babycrash.png",
+      "row": 1,
+      "column": 4,
+      "intended_cell_px": [
+        502,
+        0,
+        670,
+        168
+      ]
+    },
+    {
+      "character": "babyntropy",
+      "filename": "babyntropy.png",
+      "row": 1,
+      "column": 5,
+      "intended_cell_px": [
+        670,
+        0,
+        838,
+        168
+      ]
+    },
+    {
+      "character": "babyt",
+      "filename": "babyt.png",
+      "row": 1,
+      "column": 6,
+      "intended_cell_px": [
+        838,
+        0,
+        1005,
+        168
+      ]
+    },
+    {
+      "character": "bignorm",
+      "filename": "bignorm.png",
+      "row": 1,
+      "column": 7,
+      "intended_cell_px": [
+        1005,
+        0,
+        1172,
+        168
+      ]
+    },
+    {
+      "character": "chick",
+      "filename": "chick.png",
+      "row": 1,
+      "column": 8,
+      "intended_cell_px": [
+        1172,
+        0,
+        1340,
+        168
+      ]
+    },
+    {
+      "character": "coco",
+      "filename": "coco.png",
+      "row": 2,
+      "column": 1,
+      "intended_cell_px": [
+        0,
+        168,
+        168,
+        335
+      ]
+    },
+    {
+      "character": "cortex",
+      "filename": "cortex.png",
+      "row": 2,
+      "column": 2,
+      "intended_cell_px": [
+        168,
+        168,
+        335,
+        335
+      ]
+    },
+    {
+      "character": "crash",
+      "filename": "crash.png",
+      "row": 2,
+      "column": 3,
+      "intended_cell_px": [
+        335,
+        168,
+        502,
+        335
+      ]
+    },
+    {
+      "character": "crate",
+      "filename": "crate.png",
+      "row": 2,
+      "column": 4,
+      "intended_cell_px": [
+        502,
+        168,
+        670,
+        335
+      ]
+    },
+    {
+      "character": "crunch",
+      "filename": "crunch.png",
+      "row": 2,
+      "column": 5,
+      "intended_cell_px": [
+        670,
+        168,
+        838,
+        335
+      ]
+    },
+    {
+      "character": "dingodile",
+      "filename": "dingodile.png",
+      "row": 2,
+      "column": 6,
+      "intended_cell_px": [
+        838,
+        168,
+        1005,
+        335
+      ]
+    },
+    {
+      "character": "fakecrash",
+      "filename": "fakecrash.png",
+      "row": 2,
+      "column": 7,
+      "intended_cell_px": [
+        1005,
+        168,
+        1172,
+        335
+      ]
+    },
+    {
+      "character": "fixedrillaroo",
+      "filename": "fixedrillaroo.png",
+      "row": 2,
+      "column": 8,
+      "intended_cell_px": [
+        1172,
+        168,
+        1340,
+        335
+      ]
+    },
+    {
+      "character": "geary",
+      "filename": "geary.png",
+      "row": 3,
+      "column": 1,
+      "intended_cell_px": [
+        0,
+        335,
+        168,
+        503
+      ]
+    },
+    {
+      "character": "gnastygnorc",
+      "filename": "gnastygnorc.png",
+      "row": 3,
+      "column": 2,
+      "intended_cell_px": [
+        168,
+        335,
+        335,
+        503
+      ]
+    },
+    {
+      "character": "hasty",
+      "filename": "hasty.png",
+      "row": 3,
+      "column": 3,
+      "intended_cell_px": [
+        335,
+        335,
+        502,
+        503
+      ]
+    },
+    {
+      "character": "hunter",
+      "filename": "hunter.png",
+      "row": 3,
+      "column": 4,
+      "intended_cell_px": [
+        502,
+        335,
+        670,
+        503
+      ]
+    },
+    {
+      "character": "isabella",
+      "filename": "isabella.png",
+      "row": 3,
+      "column": 5,
+      "intended_cell_px": [
+        670,
+        335,
+        838,
+        503
+      ]
+    },
+    {
+      "character": "kingchicken",
+      "filename": "kingchicken.png",
+      "row": 3,
+      "column": 6,
+      "intended_cell_px": [
+        838,
+        335,
+        1005,
+        503
+      ]
+    },
+    {
+      "character": "koalakong",
+      "filename": "koalakong.png",
+      "row": 3,
+      "column": 7,
+      "intended_cell_px": [
+        1005,
+        335,
+        1172,
+        503
+      ]
+    },
+    {
+      "character": "komodojoe",
+      "filename": "komodojoe.png",
+      "row": 3,
+      "column": 8,
+      "intended_cell_px": [
+        1172,
+        335,
+        1340,
+        503
+      ]
+    },
+    {
+      "character": "komodomoe",
+      "filename": "komodomoe.png",
+      "row": 4,
+      "column": 1,
+      "intended_cell_px": [
+        0,
+        503,
+        168,
+        671
+      ]
+    },
+    {
+      "character": "krunk",
+      "filename": "krunk.png",
+      "row": 4,
+      "column": 2,
+      "intended_cell_px": [
+        168,
+        503,
+        335,
+        671
+      ]
+    },
+    {
+      "character": "labassistant",
+      "filename": "labassistant.png",
+      "row": 4,
+      "column": 3,
+      "intended_cell_px": [
+        335,
+        503,
+        502,
+        671
+      ]
+    },
+    {
+      "character": "liz",
+      "filename": "liz.png",
+      "row": 4,
+      "column": 4,
+      "intended_cell_px": [
+        502,
+        503,
+        670,
+        671
+      ]
+    },
+    {
+      "character": "megamix",
+      "filename": "megamix.png",
+      "row": 4,
+      "column": 5,
+      "intended_cell_px": [
+        670,
+        503,
+        838,
+        671
+      ]
+    },
+    {
+      "character": "megumi",
+      "filename": "megumi.png",
+      "row": 4,
+      "column": 6,
+      "intended_cell_px": [
+        838,
+        503,
+        1005,
+        671
+      ]
+    },
+    {
+      "character": "nash",
+      "filename": "nash.png",
+      "row": 4,
+      "column": 7,
+      "intended_cell_px": [
+        1005,
+        503,
+        1172,
+        671
+      ]
+    },
+    {
+      "character": "nbrio",
+      "filename": "nbrio.png",
+      "row": 4,
+      "column": 8,
+      "intended_cell_px": [
+        1172,
+        503,
+        1340,
+        671
+      ]
+    },
+    {
+      "character": "ngin",
+      "filename": "ngin.png",
+      "row": 5,
+      "column": 1,
+      "intended_cell_px": [
+        0,
+        671,
+        168,
+        839
+      ]
+    },
+    {
+      "character": "nina",
+      "filename": "nina.png",
+      "row": 5,
+      "column": 2,
+      "intended_cell_px": [
+        168,
+        671,
+        335,
+        839
+      ]
+    },
+    {
+      "character": "nitrusoxide",
+      "filename": "nitrusoxide.png",
+      "row": 5,
+      "column": 3,
+      "intended_cell_px": [
+        335,
+        671,
+        502,
+        839
+      ]
+    },
+    {
+      "character": "ntrance",
+      "filename": "ntrance.png",
+      "row": 5,
+      "column": 4,
+      "intended_cell_px": [
+        502,
+        671,
+        670,
+        839
+      ]
+    },
+    {
+      "character": "ntrophy",
+      "filename": "ntrophy.png",
+      "row": 5,
+      "column": 5,
+      "intended_cell_px": [
+        670,
+        671,
+        838,
+        839
+      ]
+    },
+    {
+      "character": "papupapu",
+      "filename": "papupapu.png",
+      "row": 5,
+      "column": 6,
+      "intended_cell_px": [
+        838,
+        671,
+        1005,
+        839
+      ]
+    },
+    {
+      "character": "pasadena",
+      "filename": "pasadena.png",
+      "row": 5,
+      "column": 7,
+      "intended_cell_px": [
+        1005,
+        671,
+        1172,
+        839
+      ]
+    },
+    {
+      "character": "pentapenguin",
+      "filename": "pentapenguin.png",
+      "row": 5,
+      "column": 8,
+      "intended_cell_px": [
+        1172,
+        671,
+        1340,
+        839
+      ]
+    },
+    {
+      "character": "pinstripe",
+      "filename": "pinstripe.png",
+      "row": 6,
+      "column": 1,
+      "intended_cell_px": [
+        0,
+        839,
+        168,
+        1006
+      ]
+    },
+    {
+      "character": "polar",
+      "filename": "polar.png",
+      "row": 6,
+      "column": 2,
+      "intended_cell_px": [
+        168,
+        839,
+        335,
+        1006
+      ]
+    },
+    {
+      "character": "pura",
+      "filename": "pura.png",
+      "row": 6,
+      "column": 3,
+      "intended_cell_px": [
+        335,
+        839,
+        502,
+        1006
+      ]
+    },
+    {
+      "character": "realvelo",
+      "filename": "realvelo.png",
+      "row": 6,
+      "column": 4,
+      "intended_cell_px": [
+        502,
+        839,
+        670,
+        1006
+      ]
+    },
+    {
+      "character": "rillaroo",
+      "filename": "rillaroo.png",
+      "row": 6,
+      "column": 5,
+      "intended_cell_px": [
+        670,
+        839,
+        838,
+        1006
+      ]
+    },
+    {
+      "character": "ripperroo",
+      "filename": "ripperroo.png",
+      "row": 6,
+      "column": 6,
+      "intended_cell_px": [
+        838,
+        839,
+        1005,
+        1006
+      ]
+    },
+    {
+      "character": "smallnorm",
+      "filename": "smallnorm.png",
+      "row": 6,
+      "column": 7,
+      "intended_cell_px": [
+        1005,
+        839,
+        1172,
+        1006
+      ]
+    },
+    {
+      "character": "spyro",
+      "filename": "spyro.png",
+      "row": 6,
+      "column": 8,
+      "intended_cell_px": [
+        1172,
+        839,
+        1340,
+        1006
+      ]
+    },
+    {
+      "character": "stew",
+      "filename": "stew.png",
+      "row": 7,
+      "column": 1,
+      "intended_cell_px": [
+        0,
+        1006,
+        168,
+        1174
+      ]
+    },
+    {
+      "character": "tawna",
+      "filename": "tawna.png",
+      "row": 7,
+      "column": 2,
+      "intended_cell_px": [
+        168,
+        1006,
+        335,
+        1174
+      ]
+    },
+    {
+      "character": "tinytiger",
+      "filename": "tinytiger.png",
+      "row": 7,
+      "column": 3,
+      "intended_cell_px": [
+        335,
+        1006,
+        502,
+        1174
+      ]
+    },
+    {
+      "character": "velo",
+      "filename": "velo.png",
+      "row": 7,
+      "column": 4,
+      "intended_cell_px": [
+        502,
+        1006,
+        670,
+        1174
+      ]
+    },
+    {
+      "character": "vonclutch",
+      "filename": "vonclutch.png",
+      "row": 7,
+      "column": 5,
+      "intended_cell_px": [
+        670,
+        1006,
+        838,
+        1174
+      ]
+    },
+    {
+      "character": "yaya",
+      "filename": "yaya.png",
+      "row": 7,
+      "column": 6,
+      "intended_cell_px": [
+        838,
+        1006,
+        1005,
+        1174
+      ]
+    },
+    {
+      "character": "zam",
+      "filename": "zam.png",
+      "row": 7,
+      "column": 7,
+      "intended_cell_px": [
+        1005,
+        1006,
+        1172,
+        1174
+      ]
+    },
+    {
+      "character": "zem",
+      "filename": "zem.png",
+      "row": 7,
+      "column": 8,
+      "intended_cell_px": [
+        1172,
+        1006,
+        1340,
+        1174
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=CTR HUD Mod OFF
+Comment=Restore the original racer HUD portraits
+Exec=env CTR_HUD_PAUSE=1 /home/deck/ctr-hud-mod/ctr-hud.sh off
+Terminal=true
+Icon=applications-games
