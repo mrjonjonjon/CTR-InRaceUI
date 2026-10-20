@@ -2,8 +2,7 @@
 
 Replaces the in-race HUD and minimap character portraits in **Crash Team Racing
 Nitro-Fueled** (PC/Linux port via SacredFire, tested on Steam Deck) with custom art.
-It covers 56 characters and every skin (1558 textures: HUD portraits, minimap portraits
-and the 160×160 skin icons used in the character select grid). The game's original bytes
+It covers 56 characters and every skin (862 textures). The game's original bytes
 are backed up, so the mod can be switched off at any time.
 
 Technical details are in [NOTES.md](NOTES.md).
@@ -60,9 +59,6 @@ then ON again if portraits revert.
    128×128 with transparency. One image per character is used for all skins and
    is also resized for the minimap.
 3. Rebuild and sync the blobs (step 2 of Install), then turn the mod ON.
-
-The 160×160 skin icons are scaled up from the 128×128 art and use reduced colour palettes
-(set per character in `texture-settings.json`) so they fit the game's small slots.
 
 `build.py` flips images vertically because the game reads these textures upside
 down, so do not pre-flip your art.

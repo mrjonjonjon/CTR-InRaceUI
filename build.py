@@ -119,7 +119,7 @@ if __name__ == '__main__':
             settings = json.load(f)
     for p in sorted(glob.glob(os.path.join(HERE, 'art', '*.png'))):
         name = os.path.splitext(os.path.basename(p))[0]
-        for size, suffix in ((SIZE, ''), (64, '_64'), (160, '_160')):
+        for size, suffix in ((SIZE, ''), (64, '_64')):
             colors = settings.get('palette_colors', {}).get(name, {}).get(str(size))
             data = encode(p, size, colors=colors, alpha_threshold=settings.get('alpha_threshold'),
                           encoder=settings.get('encoder', 'custom'))

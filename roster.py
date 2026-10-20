@@ -9,14 +9,7 @@ CHARACTERS = (
     'polar', 'pura', 'realvelo', 'rillaroo', 'ripperroo', 'smallnorm', 'spyro',
     'stew', 'tawna', 'tinytiger', 'velo', 'vonclutch', 'yaya', 'zam', 'zem',
 )
-ALIASES = {'coco_baby': 'babycoco', 'tiny': 'tinytiger', 'nitrosoxide': 'nitrusoxide',
-           'oxide': 'nitrusoxide', 'komodo': 'komodojoe', 'ntropy': 'ntrophy', 'penta': 'pentapenguin'}
-# Skin icons for the characters without a name are numbered; matched by eye to the HUD portraits.
-for _n, _c in enumerate(('babycortex', 'babyt', 'babycrash', 'spyro', 'hunter', 'gnastygnorc', 'nina', 'nbrio',
-                         'komodomoe', 'koalakong', 'pasadena', 'vonclutch', 'kingchicken', 'rillaroo', 'yaya',
-                         'hasty', 'stew', 'chick', 'megamix', 'velo', 'labassistant', 'crate', 'fixedrillaroo',
-                         'babycoco', 'babyntropy'), 32):
-    ALIASES['racer%d' % _n] = _c
+ALIASES = {'coco_baby': 'babycoco', 'tiny': 'tinytiger', 'nitrosoxide': 'nitrusoxide'}
 
 
 def character(token):
