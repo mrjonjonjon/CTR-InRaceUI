@@ -26,6 +26,7 @@ from roster import CHARACTERS, character  # noqa: E402
 BACKUP = os.path.join(HERE, 'backup')
 BLOBS = os.path.join(HERE, 'blobs')
 STATE = os.path.join(HERE, 'state.json')
+SUFFIX_BYTES = {'': 16384, '_64': 4096, '_160': 25600}
 SKIP = ('bg', 'contour')  # the portrait frame, not a character
 
 
@@ -92,11 +93,16 @@ def portraits(a):
         n = e['name'].lower()
         if not (n.lower().endswith('.igz') and e['mode'] >> 24 == 0x20):
             continue
-        for marker in ('octane_ui_hud_racerportrait_', 'octane_ui_minimaps_portrait_'):
+        for marker in ('octane_ui_hud_racerportrait_', 'octane_ui_minimaps_portrait_',
+                       'octane_ui_custo_ico_char_skin_'):
             if marker in n:
                 token = n.rsplit(marker, 1)[1].split('`')[0]
-                if token not in SKIP:
-                    yield e, character(token), 'minimaps' in marker and e['aux'] < 10000
+                if token in SKIP:
+                    break
+                if 'custo_ico' in marker:
+                    yield e, character(token), '_160'
+                else:
+                    yield e, character(token), '_64' if 'minimaps' in marker and e['aux'] < 10000 else ''
                 break
 
 
@@ -105,11 +111,11 @@ def make_plan(arch):
     plan = []
     covered = set()
     for fn, containers, a in archives(arch):
-        for e, char, small in portraits(a):
-            blob_path = os.path.join(BLOBS, char + ('_64' if small else '') + '.bin')
+        for e, char, suffix in portraits(a):
+            blob_path = os.path.join(BLOBS, char + suffix + '.bin')
             with open(blob_path, 'rb') as f:
                 blob = f.read()
-            if len(blob) != (4096 if small else 16384):
+            if len(blob) != SUFFIX_BYTES[suffix]:
                 raise ValueError('Incorrect replacement texture length: ' + blob_path)
             igz, off, used, room = a.read(e)
             if len(igz) < len(blob):
@@ -125,8 +131,8 @@ def make_plan(arch):
                           name=e['name'], container=containers, char=char,
                           sha256=hashlib.sha256(original).hexdigest())
             plan.append((record, original, enc))
-            covered.add((char, small))
-    missing = {(c, small) for c in CHARACTERS for small in (False, True)} - covered
+            covered.add((char, suffix))
+    missing = {(c, sfx) for c in CHARACTERS for sfx in ('', '_64')} - covered
     if missing:
         raise ValueError('Roster coverage missing: ' + repr(sorted(missing)))
     # Check physical ranges, including portraits inside embedded archives.
@@ -234,8 +240,8 @@ def cmd_verify(arch):
     checked = 0
     covered = set()
     for fn, containers, a in archives(arch):
-        for e, char, small in portraits(a):
-            blob_path = os.path.join(BLOBS, char + ('_64' if small else '') + '.bin')
+        for e, char, suffix in portraits(a):
+            blob_path = os.path.join(BLOBS, char + suffix + '.bin')
             if not os.path.exists(blob_path):
                 errors.append('Missing art blob: ' + blob_path)
                 continue

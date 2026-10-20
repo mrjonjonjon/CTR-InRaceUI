@@ -107,3 +107,13 @@ game will receive them. The pre-install placeholder snapshot on both machines is
 `snapshots/before-cnk-spritesheet-20261018.tar.gz`. On the Deck this also preserves
 the applied state, original byte backups and Desktop shortcut files. The ordinary
 OFF shortcut continues to restore original game art, rather than the placeholders.
+
+## Character select icons
+
+The select grid uses `octane_ui_custo_ico_char_skin_<char>_NN` (160×160 BC3, 25600 bytes,
+the same tiled layout; 696 entries). Their compressed slots are only 6144 or 8192 bytes,
+so `texture-settings.json` stores a palette size per character under `"160"`, chosen so the
+encoded stream fits with a 200-byte margin. 25 characters appear as `racer32`..`racer56`;
+`roster.py` maps these numbers to names by matching the icons against the original HUD
+portraits (the baby characters are the least certain). `ctr-hud.sh plan` checks that
+everything fits before writing.

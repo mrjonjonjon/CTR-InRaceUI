@@ -4,227 +4,283 @@
   "palette_colors": {
     "ami": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "babycoco": {
       "128": 128,
-      "64": null
+      "64": null,
+      "160": null
     },
     "babycortex": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "babycrash": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "babyntropy": {
       "128": 256,
-      "64": null
+      "64": null,
+      "160": 256
     },
     "babyt": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": 192
     },
     "bignorm": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": 192
     },
     "chick": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "coco": {
       "128": 96,
-      "64": null
+      "64": null,
+      "160": 128
     },
     "cortex": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "crash": {
       "128": 128,
-      "64": null
+      "64": null,
+      "160": 256
     },
     "crate": {
       "128": 64,
-      "64": null
+      "64": null,
+      "160": null
     },
     "crunch": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": 64
     },
     "dingodile": {
       "128": 256,
-      "64": null
+      "64": null,
+      "160": 256
     },
     "fakecrash": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "fixedrillaroo": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "geary": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "gnastygnorc": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "hasty": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "hunter": {
       "128": 256,
-      "64": null
+      "64": null,
+      "160": null
     },
     "isabella": {
       "128": 128,
-      "64": null
+      "64": null,
+      "160": 192
     },
     "kingchicken": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "koalakong": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "komodojoe": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": 256
     },
     "komodomoe": {
       "128": 256,
-      "64": null
+      "64": null,
+      "160": null
     },
     "krunk": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": 96
     },
     "labassistant": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "liz": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": 256
     },
     "megamix": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "megumi": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "nash": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": 256
     },
     "nbrio": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "ngin": {
       "128": 96,
-      "64": null
+      "64": null,
+      "160": 128
     },
     "nina": {
       "128": 256,
-      "64": null
+      "64": null,
+      "160": null
     },
     "nitrusoxide": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": 192
     },
     "ntrance": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": 256
     },
     "ntrophy": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "papupapu": {
       "128": 64,
-      "64": null
+      "64": null,
+      "160": 96
     },
     "pasadena": {
       "128": 128,
-      "64": null
+      "64": null,
+      "160": null
     },
     "pentapenguin": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "pinstripe": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "polar": {
       "128": 192,
-      "64": null
+      "64": null,
+      "160": 192
     },
     "pura": {
       "128": 96,
-      "64": null
+      "64": null,
+      "160": 128
     },
     "realvelo": {
       "128": 256,
-      "64": null
+      "64": null,
+      "160": 256
     },
     "rillaroo": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "ripperroo": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "smallnorm": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "spyro": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "stew": {
       "128": 256,
-      "64": null
+      "64": null,
+      "160": 256
     },
     "tawna": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "tinytiger": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": 96
     },
     "velo": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "vonclutch": {
       "128": 64,
-      "64": null
+      "64": null,
+      "160": 96
     },
     "yaya": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": null
     },
     "zam": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": 192
     },
     "zem": {
       "128": null,
-      "64": null
+      "64": null,
+      "160": 96
     }
   }
 }
